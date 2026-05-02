@@ -27,7 +27,7 @@ A modern, responsive portfolio website showcasing creative writing and editorial
 
 ## Getting Started
 
-This website is hosted on GitHub Pages and is live at: **[ntlantla.github.io](https://ntlantla.github.io)**
+This website is hosted on GitHub Pages and is live at: **[ntlantlaIwuoha.help.max.github.io](https://ntlantlaIwuoha.help.max.github.io)**
 
 ## Technologies Used
 
