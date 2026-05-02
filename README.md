@@ -116,10 +116,10 @@ The site is automatically deployed to GitHub Pages from the main branch.
 
 ## Future Enhancements
 
-- [ ] Blog section
-- [ ] Dark/Light mode toggle
-- [ ] More interactive animations
-- [ ] Newsletter signup
+- [yes ] Blog section
+- [yes ] Dark/Light mode toggle
+- [yes ] More interactive animations
+- [yes ] Newsletter signup
 - [ ] Client testimonials
 - [ ] File downloads (CV, portfolio)
 
